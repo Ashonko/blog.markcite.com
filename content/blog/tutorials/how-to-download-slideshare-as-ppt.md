@@ -11,8 +11,8 @@ SlideShare, owned by Scribd is a sharing site where user can share professional 
 
 ### How to download
 To download a presentation from SlideShare in PPT format, 
-- First go to <a href="https://www.slideshare.net/" target="_blank">SlideShare</a> website and search for your desired presentation. Copy the URL of that presentation.
-- Then, go to <a href="https://www.slidesharedownloader.com/" target="_blank">SlideShare Downloader</a>.
+- First go to [SlideShare](https://www.slideshare.net/) website and search for your desired presentation. Copy the URL of that presentation.
+- Then, go to [SlideShare Downloader](https://www.slidesharedownloader.com/).
 - Paste the copied link in the input box and click on the **Download In PPT** button.
 - Within a minute, your file will be generated and once completed, the PPT file will start downloading automatically.
 
