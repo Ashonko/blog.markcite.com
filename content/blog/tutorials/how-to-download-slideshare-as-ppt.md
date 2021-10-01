@@ -1,8 +1,8 @@
 ---
-title: "How to Download SlideShare Presentation to PPT"
+title: "How to Download SlideShare Presentation as PPT"
 date: 2021-10-01T20:01:34+06:00
-featureImage: images/allpost/allPost-7.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: images/allpost/slideshare-ppt-blog-feature.jpg
+postImage: images/single-blog/slideshare-ppt-in-blog-feature.jpg
 ---
 This is a tutorial on how you can download a SlideShare presentation in PPT format so  that you can work or make some modification in PowerPoint and then present it to your audience.
 
@@ -11,8 +11,8 @@ SlideShare, owned by Scribd is a sharing site where user can share professional 
 
 ### How to download
 To download a presentation from SlideShare in PPT format, 
-- First go to [SlideShare](https://www.slideshare.net/) website and search for your desired presentation. Copy the URL of that presentation.
-- Then, go to [SlideShare Downloader](https://www.slidesharedownloader.com/).
+- First go to <a href="https://www.slideshare.net/" target="_blank">SlideShare</a> website and search for your desired presentation. Copy the URL of that presentation.
+- Then, go to <a href="https://www.slidesharedownloader.com/" target="_blank">SlideShare Downloader</a>.
 - Paste the copied link in the input box and click on the **Download In PPT** button.
 - Within a minute, your file will be generated and once completed, the PPT file will start downloading automatically.
 
