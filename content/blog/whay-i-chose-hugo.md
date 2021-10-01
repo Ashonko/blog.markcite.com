@@ -1,5 +1,5 @@
 ---
-title: "Why I Choose Hugo"
+title: "Why I Chose Hugo"
 date: 2021-10-01T17:28:34+06:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
