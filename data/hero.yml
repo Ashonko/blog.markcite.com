@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, I am Rajib Biswas
 content: >
-  # I am here for your personal business
+  # Welcome to MarkCite blog
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
-buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  Explore the curious and diverse world and a journey of self-improvement
+buttonName: Explore the articles
+buttonURL: blog
+image: images/hero/rajib-snoopy.jpeg
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
