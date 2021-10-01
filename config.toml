@@ -1,4 +1,4 @@
-baseURL = 'http://ashonko.github.io/blog.markcite.com/'
+baseURL = 'https://ashonko.github.io/blog.markcite.com/'
 languageCode = 'en-us'
 title = 'MarkCite Blog'
 theme =  'portio'
