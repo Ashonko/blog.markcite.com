@@ -1,7 +1,7 @@
 baseURL = 'https://ashonko.github.io/blog.markcite.com/'
 languageCode = 'en-us'
 title = 'MarkCite Blog'
-theme =  'portio'
+theme =  'mctheme'
 # Main Menu
 [[menu.main]]
 name = "Home"
