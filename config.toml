@@ -2,6 +2,9 @@ baseURL = 'https://blog.markcite.com/'
 languageCode = 'en-us'
 title = 'MarkCite Blog'
 theme =  'mct'
+
+ignoreFiles = ['\CNAME']
+
 # Main Menu
 [[menu.main]]
 name = "Home"
