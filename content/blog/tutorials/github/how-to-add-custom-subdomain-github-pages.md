@@ -22,3 +22,4 @@ Done. Your work form the GitHub side is also finished. Now you just wait for som
 
 #### Few points to note
 - Make sure that your root link for all the assets of your website is directed to your custom subdomain, not to the link of your github pages, otherwise, the assets will not load.
+- If you are using Hugo like this blog, you'll need to create a CNAME file in the static folder so that every time your site is deployed in GitHub pages, it doesn't remove the custom domain. In the CNAME file, just write down the subdomain name of your website (for example: blog.markcite.com).
