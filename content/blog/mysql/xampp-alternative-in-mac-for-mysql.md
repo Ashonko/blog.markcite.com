@@ -69,6 +69,12 @@ $mysqli = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 
 The process is not very complicated but once all the set-ups are done, you'll be able to have the full potential of Devilbox.
 
+### Start Devilbox from Terminal
+To start devilbox from the terminal, use the following command:
+{{< highlight env >}}
+docker-compose up -d httpd php mysql
+{{< / highlight >}}
+
 #### More resources:
 - [Official documentation on installing Devilbox](https://devilbox.readthedocs.io/en/latest/getting-started/install-the-devilbox.html)
 - [Guideline to change a version](https://devilbox.readthedocs.io/en/latest/getting-started/change-container-versions.html)
