@@ -2,6 +2,9 @@ baseURL = 'https://blog.markcite.com/'
 languageCode = 'en-us'
 title = 'MarkCite Blog'
 theme =  'mct'
+# Let the Markdown use HTML
+[markup.goldmark.renderer]
+unsafe = true
 # Main Menu
 [[menu.main]]
 name = "Home"
