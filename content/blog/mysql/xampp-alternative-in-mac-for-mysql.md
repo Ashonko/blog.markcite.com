@@ -51,9 +51,9 @@ To create an app, you need to follow this instruction.
 {{< highlight env >}}
 sudo vi /etc/hosts
 {{< / highlight >}}
-  - It will open the DNS entry in VIM editor. To edit the entry, type `:a` and hit **return***. Then paste the showed entry in the **Virtual Hosts** menu, for example, `127.0.0.1 project-1.loc`.
+  - It will open the DNS entry in VIM editor. To edit the entry, type `:a` and hit **return*** and then `i` to `insert`. Then paste the showed entry in the **Virtual Hosts** menu, for example, `127.0.0.1 project-1.loc`.
   - Then press **esc** button and to save and get out of the VIM editor, type `:x` and hit **return**.
-- Now, refresh the **Virtual Hosts** page and you'll find that your project is running. Keep your app files in the `project-1>htdocs` folder and you are good to go.
+- Now, refresh the **Virtual Hosts** page and you'll find that your project is running. Keep your app files in the `project-1>htdocs` folder and you are good to go. Please note that you may need to restart your computer to see the changes.
 - To visit your web app `project-1`, go to [http://project-1.loc](http://project-1.loc) and you'll be able to see your `project-1` web-app.
 
 ### Connecting to MySQL database
