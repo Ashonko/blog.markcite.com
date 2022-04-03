@@ -52,7 +52,7 @@ weight = 3
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © MarkCite 2021"
+copyright = "All right reserved copyright © MarkCite 2022"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
